@@ -83,5 +83,18 @@ nav a{
   width:70%;
   display:inline-block;
   margin: 5px;
+  }
 
- 
+
+ .header-right {
+     display: inline-block;
+     border: 1px solid black;
+     width: 45%;
+     height: 400px;
+ }
+
+ .header-left {
+     display:inline-block;
+     border: 1px solid black;
+     width: 45%
+ }
