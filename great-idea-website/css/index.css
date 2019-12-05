@@ -66,8 +66,22 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-
-nav {
-	border: 1px solid green;
-	width: 100%;
+nav a{
+  text-decoration:none;
+  padding:25px;
+  display:inline-block;
+  padding-left: 25px;
 }
+
+.logo{
+  width:28%;
+  display:inline-block;
+  padding-right: 25px;
+  }
+
+.links{
+  width:70%;
+  display:inline-block;
+  margin: 5px;
+
+ 
